@@ -7,11 +7,12 @@
 .numero {
     color: white;
     font-family: 'Sixtyfour', sans-serif;
+    font-size: 2.5rem;
 }
 
 .contador {
-    background-color: purple;
-    height: 40vh;
+    background-color: rgb(67, 67, 130);
+    height: 50vh;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
